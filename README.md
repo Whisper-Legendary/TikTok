@@ -1,2 +1,35 @@
 # TikTok
 All TikTok Apis And Algorithms
+- Languages :
+  - Python
+  - C#
+  - GoLang
+- APIs :
+  - Account :
+    - Registration
+    - Login
+    - Follow
+    - Like
+    - Comment
+    - Share
+    - Message
+    - Report
+    - Edit
+  - Device :
+    - Registration
+    - Activation
+  - Algorithms :
+    - Argus
+    - Ladon
+    - Gorgon
+    - mssdk
+    - ttencrypt
+    - All Algorithms Available
+  - Captcha :
+    - Solved
+    - Open Source
+  - Proxies :
+    - Support All Proxies
+- Contact :
+  - TeleGram : https://t.me/WHI3PER
+  - InstaGram : https://instagram.com/whisper_dev
